@@ -1,5 +1,7 @@
 # Burwash
-What is for dinner at Burwash tonight? A shortcut for iPhone that answers that question for you.
+What is for dinner at Burwash (Victoria College dining hall at UofT) tonight? A shortcut for iPhone that answers that question for you.
+
+Also, quickly visit this site if that's too much work: https://shine-spike.github.io/Burwash/index.html
 
 # Installation
 https://www.icloud.com/shortcuts/acc3a5a93a584d0ea68fa8e15918f477
