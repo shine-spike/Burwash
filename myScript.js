@@ -16,7 +16,7 @@ function getWeekNumber(d) {
 var message = document.getElementById("message");
 var d = new Date();
 var week = getWeekNumber(d);
-week = (week[1] + 1) % 4 + 1;
+week = (week[1]) % 4 + 1;
 var day = (d.getDay() + 6) % 7;
 
 
